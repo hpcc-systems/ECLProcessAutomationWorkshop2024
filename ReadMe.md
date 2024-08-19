@@ -19,3 +19,8 @@ This workshop will show how to automate processes and schedule jobs in three sta
 2. Triggering Events - How to launch jobs that need to run when something specific happens.
  
 3. An Extensive Real-World Example - Production-ready code that uses these tools to monitor your Landing Zone for a specific file to show up, then automatically import and process new data files.
+
+# Follow Along!
+
+Simply download or clone this repo then add the root folder to your ECL Folders list on the Preferences page of your ECL IDE, or simply open it in your VSCode IDE.
+
