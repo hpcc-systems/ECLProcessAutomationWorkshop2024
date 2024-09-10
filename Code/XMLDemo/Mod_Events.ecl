@@ -1,4 +1,4 @@
 ﻿IMPORT $.^;
-EXPORT Mod_Events := MODULE(ProcessAutomation.Mod_Events)
+EXPORT Mod_Events := MODULE(Code.Mod_Events)
   EXPORT Who := 'XML';
 END;

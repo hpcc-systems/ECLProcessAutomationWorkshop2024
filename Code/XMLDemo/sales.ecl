@@ -1,5 +1,5 @@
 ﻿EXPORT Sales := MODULE
-  EXPORT SFname := '~RTTEST::IN::SF_XMLfiles';
+  EXPORT SFname := '~WRKSHP::IN::SF_XMLfiles';
   EXPORT SKUrec := RECORD
     STRING5     SKU{XPATH('sku')};  
     UNSIGNED2   NumSold{XPATH('numsold')};
